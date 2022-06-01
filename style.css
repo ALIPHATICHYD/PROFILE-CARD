@@ -4,11 +4,15 @@
     padding: 0;
 }
 
+body{
+    background-color: hsl(185, 75%, 39%);
+}
 
-
-
-
-
+.avatar{
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+}
 
 
 
